@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563083397609",
+    "project_id": "finance-flow-flutter",
+    "storage_bucket": "finance-flow-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563083397609:android:ab5146ad43786e7e81a378",
+        "android_client_info": {
+          "package_name": "com.example.financeflowflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByEECnCwhWo6m5vsxvcoxI1VGISrN47I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
